@@ -71,13 +71,19 @@ The framework is organized into 9 modular subsystems spanning three functional l
 
 ## 🖼️ Visual Results & Simulation
 
-Simulation plots and cognitive HUD snapshots from multi-seed evaluation:
+<img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/610c0ac2-1ba0-4989-96da-d1719cac82c6" />
 
-1. **Ground Truth Risk vs. Digital Twin Forecast ($\Delta t = 5$)**
-2. **Cognitive Mode Switching Trace, Battery Telemetry & DT Influence Timeline**
-3. **5-Seed Policy Convergence Across 1,500 Episodes & Ablation Benchmarks**
+<img width="940" height="655" alt="image" src="https://github.com/user-attachments/assets/a5d77e10-54da-4c12-a64c-df96f74eafbb" />
 
-*(See uploaded `.png` figures in this repository for high-resolution plots).*
+<img width="940" height="641" alt="image" src="https://github.com/user-attachments/assets/804ff197-ee5e-4352-8cc9-1c4281769aa9" />
+
+<img width="940" height="574" alt="image" src="https://github.com/user-attachments/assets/3901e1b7-3907-4017-90e2-14a378d6aaba" />
+
+<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/3ff681a1-aa4b-4326-8797-7bd1deae8238" />
+
+
+
+
 
 ---
 
