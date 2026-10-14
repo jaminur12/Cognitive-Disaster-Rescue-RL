@@ -6,7 +6,7 @@
 ![Domain](https://img.shields.io/badge/Robotics-Disaster_Rescue_%7C_POMDP-blue)
 
 **Author:** Jaminur Rahaman Mirja  
-**Affiliation:** Department of Department of Electronics and Telecommunication Engineering (Intelligent Automation & Robotics) Jadavpur University  
+**Affiliation:** Department of Electronics and Telecommunication Engineering (Intelligent Automation & Robotics) Jadavpur University  
  
 
 > **🔒 Intellectual Property & Code Availability Notice:**  
