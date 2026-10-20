@@ -77,9 +77,6 @@ The framework is organized into 9 modular subsystems spanning three functional l
 
 <img width="940" height="641" alt="image" src="https://github.com/user-attachments/assets/804ff197-ee5e-4352-8cc9-1c4281769aa9" />
 
-<img width="940" height="574" alt="image" src="https://github.com/user-attachments/assets/3901e1b7-3907-4017-90e2-14a378d6aaba" />
-
-<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/3ff681a1-aa4b-4326-8797-7bd1deae8238" />
 
  
 
